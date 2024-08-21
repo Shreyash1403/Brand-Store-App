@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +19,10 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/mens1.png
+    - assets/mens2.png
+    - assets/mens3.png
+    - assets/mens4.png
+    - assets/home_icon.png
+    - assets/home_icon2.png
